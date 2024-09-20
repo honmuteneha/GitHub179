@@ -13,10 +13,7 @@ public class demo {
 	{
 		System.out.println("m3-method call");
 	}
-	public void m4()
-	{
-		System.out.println("sam2 to sam3");
-	}
+
 	public static void main(String[] args) {
 		System.out.println("git project");
 	}
