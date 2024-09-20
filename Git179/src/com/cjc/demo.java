@@ -9,6 +9,10 @@ public class demo {
 	{
 		System.out.println("m2-method call");
 	}
+	public void m3()
+	{
+		System.out.println("m3-method call");
+	}
 	public static void main(String[] args) {
 		System.out.println("git project");
 	}
